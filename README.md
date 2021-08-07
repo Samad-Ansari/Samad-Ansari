@@ -1,1 +1,1 @@
-[![Braydon's GitHub Banner](./assets/Add a heading)](https://braydoncoyer.dev)
+[![Samad's Github Banner](./assets/banner.gif)](https://github.com/Samad-Ansari/Samad-Ansari)
