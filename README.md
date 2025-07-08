@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/CoderSamad)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/samad-ansari-21221b197/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-samadansaridev@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:samadansaridev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-samadansari06june@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:samadansari06june@gmail.com)
 
 ## 👋 Hello! I'm Samad Ansari
 
@@ -54,7 +54,7 @@ Graduated in **Computer Science & Engineering**, I enjoy building scalable appli
 
 ## 📫 Let's Connect
 
-- 📧 Email: [samadansaridev@gmail.com](mailto:samadansaridev@gmail.com)  
+- 📧 Email: [samadansari06june@gmail.com](mailto:samadansari06june@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/samad-ansari-21221b197](https://www.linkedin.com/in/samad-ansari-21221b197/)  
 - 🐦 Twitter: [@CoderSamad](https://twitter.com/CoderSamad)
 
